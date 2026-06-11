@@ -71,12 +71,12 @@ I am passionate about continuous learning and technology
 <ol>
   
   <li><strong>Employee-Management-System</strong> ||
-    <a href="https://github.com/samridhi8595-lab/Employee-Management-System">GitHub Link</a> ||
+    <a href="https://github.com/samridhi8595/Employee-Management-System">GitHub Link</a> ||
     <!-- <a href="https://pawantripathi.vercel.app/">Live Preview</a> -->
   </li>
 
   <li><strong>Hotel-booking</strong> ||
-    <a href="hhttps://github.com/samridhi8595-lab/Hotel-Booking">GitHub Link</a> ||
+    <a href="hhttps://github.com/samridhi8595/Hotel-Booking">GitHub Link</a> ||
     <!-- <a href="https://pawantripathi.vercel.app/">Live Preview</a> -->
   </li>
   
@@ -107,7 +107,7 @@ I am passionate about continuous learning and technology
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samridhi8595-lab&theme=tokyo-night" height="180" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samridhi8595&theme=tokyo-night" height="180" />
 </p>
 
 
@@ -115,7 +115,7 @@ I am passionate about continuous learning and technology
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=samridhi8595-lab&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=samridhi8595&show_icons=true&theme=radical" height="180"/>
 </p>
 
 <hr/>
